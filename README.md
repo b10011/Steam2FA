@@ -1,5 +1,7 @@
 # Steam2FA
 Software to calculate Steam Community two-factor-authentication code.
+Steamcode.au3 is AutoIT script that will run the java program and type the code to the dialog.
+
 # NOTICE!
 You cannot hack with this program.
 You need shared_secret from the phone you are currently using Steam 2FA!
