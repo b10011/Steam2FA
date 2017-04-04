@@ -1,1 +1,7 @@
 # Steam2FA
+Software to calculate Steam Community two-factor-authentication code.
+# NOTICE!
+You cannot hack with this program.
+You need shared_secret from the phone you are currently using Steam 2FA!
+This can be obtained with rooted Android or possibly via iPhone backup + extract.
+I'm not responsible how you use this or if you can not find the shared_secret!
