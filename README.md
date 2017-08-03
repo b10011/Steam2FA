@@ -2,6 +2,8 @@
 
 How it works: https://www.youtube.com/watch?v=yXfLKRD2xFg
 
+How can I use this? Go here: http://steam.xnor.link/
+
 Software to calculate Steam Community two-factor-authentication code.
 
 Steamcode.au3 is AutoIT script that will run the java program and type the code to the dialog.
